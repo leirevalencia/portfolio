@@ -1,4 +1,67 @@
+body {
+    background: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
 h1 {
+    font-size: 80px;
     font-family: brush script mt;
     text-align: center;
+    margin: 100px 50px;
+    padding: 100px 50px;
+    padding-bottom: 10px;
+    display: block;
+    color: rgb(26, 61, 26);
+}
+
+h2 {
+    text-align: center;
+    font-family: verdana;
+}
+
+.container {
+    display: block;
+    text-align:center;
+}
+
+.info {
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    margin: 50px 80px;
+    padding: 30px 30px;
+    font-family: yanone kaffeesatz light 300;
+    background: rgba(19, 52, 19, 0.3);
+}
+
+.about-me {
+    color: rgb(24, 59, 24);
+}
+
+.about-me:hover {
+    background: rgb(24, 59, 24);
+    color: rgb(182, 236, 182);
+    border-radius: 5px 5px;
+    padding: 5px 5px;
+}
+
+.photo {
+    border-radius: 10px 10px;
+    margin: 50px 30px;
+}
+
+.sentence {
+    text-align: center; 
+    font-family: dancing script;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+}
+
+.icons {
+    margin: 20px 20px;
+}
+
+.coded {
+    font-family: courier new;
 }

@@ -1,3 +1,4 @@
+/*GENERAL CSS*/
 body {
     background: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
 }
@@ -78,6 +79,8 @@ footer {
     font-family: courier new;
 }
 
+/*PROJECTS CSS*/
+
 .text {
     font-family: yanone kaffeesatz;
 }
@@ -86,6 +89,21 @@ footer {
    padding: 40px 20px;
 }
 
+#app-img {
+    border-radius: 10px 10px;
+}
+
+#description {
+    border: 2px solid rgba(19, 52, 19, 0.3);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    font-family: yanone kaffeesatz light 300;
+    background: rgba(19, 52, 19, 0.3);
+    box-shadow: 5px 5px 5px rgba(128, 128, 128, 0.3);
+}
+
+/*ABOUT ME CSS*/
 #know-me {
     border: 2px solid rgba(19, 52, 19, 0.3);
     border-radius: 10px;

@@ -85,3 +85,17 @@ footer {
 #project {
    padding: 40px 20px;
 }
+
+#know-me {
+    border: 2px solid rgba(19, 52, 19, 0.3);
+    border-radius: 10px;
+    text-align: center;
+    font-family: yanone kaffeesatz light 300;
+    background: rgba(19, 52, 19, 0.3);
+    box-shadow: 5px 5px 5px rgba(128, 128, 128, 0.3);
+}
+
+.photo-me {
+    border-radius: 10px 10px;
+    margin: 0 20px;
+}

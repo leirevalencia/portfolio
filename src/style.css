@@ -57,8 +57,8 @@ h2 {
 }
 
 .photo {
-    border-radius: 10px 10px;
     margin: 50px 30px;
+    width: 350px;
 }
 
 .sentence {
@@ -119,3 +119,14 @@ footer {
     margin: 0 20px;
 }
 
+/*CONTACT*/
+.mail, .linkedin {
+    padding: 20px 20px;
+    text-align: center; 
+}
+
+.title {
+    font-family: nunito, sans serif;
+    font-size: 48px;
+    color:rgb(40, 63, 40);
+}

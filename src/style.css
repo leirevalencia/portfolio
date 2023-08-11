@@ -103,6 +103,14 @@ footer {
     box-shadow: 5px 5px 5px rgba(128, 128, 128, 0.3);
 }
 
+.Skills {
+    text-align: center;
+}
+
+h3, {
+    color: rgb(76, 116, 76);
+}
+
 /*ABOUT ME CSS*/
 #know-me {
     border: 2px solid rgba(19, 52, 19, 0.3);

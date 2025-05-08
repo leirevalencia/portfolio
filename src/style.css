@@ -27,14 +27,11 @@ h2 {
     font-family:dancing script;
 }
 
-.flags {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
+
 
 .flagitem {
-    width: 20px;
+    width: 10px;
+    border-radius: 5px;
 }
 
 .container {

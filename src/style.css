@@ -27,6 +27,17 @@ h2 {
     font-family:dancing script;
 }
 
+.flags {
+    width: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flagitem {
+    width: 30px;
+}
+
 .container {
     display: block;
     text-align:center;
